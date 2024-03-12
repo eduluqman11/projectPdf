@@ -26,9 +26,8 @@ function App() {
     </div>
     <hr></hr>
     <section className="text-gray-600 body-font">
-  <div className="container px-5 py-24 mx-auto flex border">
-  <embed type="application/pdf" src="./Docker_Session_Notes.pdf" width="100%" height="500" />
-  </div>
+    <embed type="application/pdf" src="./Docker_Session_Notes.pdf" width="100%" height="800" />
+
 </section>
     </>
   );
